@@ -1,6 +1,7 @@
 "Royal TSX"
 "Affinity Designer"
 "Google Drive"
+"Opera"
 "Microsoft Excel"
 "Microsoft Outlook"
 "Microsoft OneNote"
